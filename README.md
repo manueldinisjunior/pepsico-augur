@@ -56,10 +56,3 @@ This project is part of Forage Simulation, and we appreciate the opportunity to 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Remember to replace placeholder URLs and usernames with the actual information for your project. Additionally, include any relevant information specific to your PepsiCo project and its requirements.
-
-![pepsi-tablet](https://user-images.githubusercontent.com/53599271/92312596-8ad30300-efc2-11ea-8ff6-e7430a4c11ae.png)
-
-![pepsi-movil](https://user-images.githubusercontent.com/53599271/92312598-8dcdf380-efc2-11ea-8399-6c7fb6f2f2f5.png)
