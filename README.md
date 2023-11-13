@@ -33,7 +33,7 @@ This project focuses on designing and implementing a responsive website for Peps
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/pepsico-responsive-web.git
+   git clone https://github.com/manueldinisjunior/pepsico-frontend.git
    ```
 
 2. Open the `index.html` file in a web browser.
